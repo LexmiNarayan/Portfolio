@@ -1,1 +1,0 @@
-This is a example portfolio i did using html and css,i personally like this neonish design and the redirection to specific parts of the website when i click the icons like services on top is satisfying
