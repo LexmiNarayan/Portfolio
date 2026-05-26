@@ -1,3 +1,6 @@
+Unsafe warning given by the microsoft:
+    This is because the portfolio template looks similar to lot of other portfolios online  so browsers flag it automatically thinking it is a phishing site and it may think i am imitaitng some other portfolios to get sensitive information but it is not ,i have checked my files for malicious threats and i found none and it is safe to say my project is a safe one so you dont have to worry about that ,please do proceed ignoring the warning it is safe,and it is from my perosnal github repository so it is not a problem.It is a static website made using only html and css no javascript used,so we cant input information and store anyway.
+
 This is a example portfolio i did using html and css,i personally like this neonish design and the redirection to specific parts of the website when i click the icons like services on top is satisfying,let me elaborate on how i did this project
 The page is divided into 6 parts
 1)Header
@@ -29,8 +32,6 @@ Contacts:
 it also have a cooll looking scrollbar which i created using the webkit scrollbar properites which are the scroll ,thumb and bar properites,the scroll take scare of how we scroll the thumb takes care of the the portion in scroll bar which goes up and down when we scroll,the track is responsible for the whole track in which the thumb moves 
 
 
-Unsafe warning given by the microsoft:
-    i have checked my files for malicious threats and i found none and it is safe to say my project is a safe one so you dont have to worry about that ,please do proceed ignoring the warning it is safe,the warnign is due to my file being relatively new since i do not actually host it using a dedicated domain in a server
-And it does not collect any perosnal information,so phishing is impossible since it is a static site not javascript used ,you can also check the code ,there is no javascript used and im hosting form github so no issue
+
 
     
