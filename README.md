@@ -31,6 +31,6 @@ it also have a cooll looking scrollbar which i created using the webkit scrollba
 
 Unsafe warning given by the microsoft:
     i have checked my files for malicious threats and i found none and it is safe to say my project is a safe one so you dont have to worry about that ,please do proceed ignoring the warning it is safe,the warnign is due to my file being relatively new since i do not actually host it using a dedicated domain in a server
-
+And it does not collect any perosnal information,so phishing is impossible since it is a static site not javascript used ,you can also check the code ,there is no javascript used and im hosting form github so no issue
 
     
