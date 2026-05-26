@@ -26,6 +26,11 @@ Projects:
 Contacts:
    here the boxes are created using the input element and appropriate placeholders are given for each of the box and i made sure message box is bigger for easier typing,the icons are similar of that i used in home page,and the copyright text in the bottom is just for example if it was a true portfolio website but this is just a template,I have not given links to any of the social media exept github becaise this is just a template and i dont have any other official social media accounts for work kind of stuff
 
+it also have a cooll looking scrollbar which i created using the webkit scrollbar properites which are the scroll ,thumb and bar properites,the scroll take scare of how we scroll the thumb takes care of the the portion in scroll bar which goes up and down when we scroll,the track is responsible for the whole track in which the thumb moves 
+
 
 Unsafe warning given by the microsoft:
     i have checked my files for malicious threats and i found none and it is safe to say my project is a safe one so you dont have to worry about that ,please do proceed ignoring the warning it is safe,the warnign is due to my file being relatively new since i do not actually host it using a dedicated domain in a server
+
+
+    
